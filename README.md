@@ -14,7 +14,7 @@ https://github.com/PGCSEDS-IIITH/compose-iris contains code which demonstrates d
 - Spin up the containers using `docker-compose up`
 
 ## Assignment Task
-Implement this stack for some dataset of your choice
+Implement this stack for Bug Predictor Data Set.
 
 ## Submission
 Submit a link to your forked repository
